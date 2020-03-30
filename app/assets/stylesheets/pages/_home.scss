@@ -19,7 +19,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
-  height: 100px;
+  height: 150hv;
   padding: 0px 50px;
   color: white;
 }
@@ -35,8 +35,33 @@
   padding: 0px 10px;
 }
 .footer-links a:hover {
-  opacity: 0;
+  opacity: 1;
 }
 .footer .fa-heart {
   color: white;
 }
+
+.custom{
+  padding: 3hv;
+}
+
+.fuente {
+  h1{
+    font-size: 1.6rem;
+  }
+  h3 {
+   font-size: 1.4rem;
+  }
+  h4 {
+   font-size: 1.2rem;
+  }
+  p {
+   font-size: 1rem;
+  }
+}
+
+.negro {
+  color: black;
+
+}
+
